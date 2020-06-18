@@ -2,4 +2,5 @@
 <bean id="orderDao" class="com.offcn.dao.OrderDao">
 
 <bean id="userDao" class="com.offcn.dao.UserDao"></bean>
+<bean id="idWorkder" class="com.offcn.common.IdWorder></bean>
 
